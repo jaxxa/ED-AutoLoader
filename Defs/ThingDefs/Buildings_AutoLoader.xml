@@ -62,7 +62,7 @@
 		<tickerType>Never</tickerType>
 		<rotatable>true</rotatable>
 		<neverMultiSelect>true</neverMultiSelect>
-		<designationCategory>Security</designationCategory>
+		<designationCategory>Production</designationCategory>
 		<staticSunShadowHeight>0.3</staticSunShadowHeight>
     <surfaceType>Item</surfaceType>
 		<placeWorkers>
