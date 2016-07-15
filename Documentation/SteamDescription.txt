@@ -1,0 +1,6 @@
+Rimworld Forum: https://ludeon.com/forums/index.php?topic=18995.0
+
+This Mod adds a building called an Autoloader that can be used to supply things to certain buildings. If a building in a mod can use it then it should be listed in the description of that mod.
+This is functionally identical to a Hopper in the base game, but accepts a wider variety of resources without cluttering the stock Hopper or causing incompatibilities with other mods.
+
+This will not do anything by itself, but is intended as a helper for other mods.
