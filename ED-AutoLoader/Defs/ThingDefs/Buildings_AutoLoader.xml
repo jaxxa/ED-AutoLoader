@@ -39,7 +39,6 @@
 				<priority>Important</priority>
 				<filter>
 					<categories>
-						<li>Manufactured</li>
 					</categories>
 					<exceptedThingDefs>
 					</exceptedThingDefs>
