@@ -5,7 +5,19 @@
     <RootNamespace>ED_Autoloader</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <BaseOutputPath>..\ED-AutoLoader\1.7\Assemblies</BaseOutputPath>
+    <OutputPath>..\ED-AutoLoader\1.7\Assemblies</OutputPath>
+    <!-- Prevents .deps.json generation -->
+    <GenerateDependencyFile>false</GenerateDependencyFile>
+	
+	<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>none</DebugType>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DebugType>none</DebugType>
   </PropertyGroup>
 
   <ItemGroup>
