@@ -10,3 +10,5 @@
 **/bin
 **/obj
 
+Source/.vs/
+ED-AutoLoader/1.7/Assemblies/Debug/net10.0/ED-Autoloader.deps.json
