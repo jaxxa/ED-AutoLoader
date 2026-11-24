@@ -31,7 +31,7 @@
 				<priority>Important</priority>
 				<filter>
 					<categories>
-						<li>Root</li>
+						<li>MortarShells</li>
 					</categories>
 				</filter>
 			</fixedStorageSettings>
@@ -39,6 +39,7 @@
 				<priority>Important</priority>
 				<filter>
 					<categories>
+						<li>MortarShells</li>
 					</categories>
 				</filter>
 			</defaultStorageSettings>
@@ -52,7 +53,7 @@
 			<MaxHitPoints>100</MaxHitPoints>
 			<Flammability>1.0</Flammability>
 		</statBases>
-		<description>Holds resources for use by machines.</description>
+		<description>Provides a convienent place to hold Mortar shells ready for loading.</description>
 		<costList>
 			<Steel>15</Steel>
 		</costList>
