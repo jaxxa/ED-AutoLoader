@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+
+  <!-- PatchOperations go here -->
+
+	<Operation Class="PatchOperationAdd">
+	  <xpath>Defs/ThingDef[defName="Turret_Mortar"]/building</xpath>
+	  <order>Prepend</order>
+	  <value>		
+		<wantsHopperAdjacent>true</wantsHopperAdjacent>
+	  </value>
+	</Operation>
+
+</Patch>
